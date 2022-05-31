@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Blissfulmurderer.
-- 👀 I’m interested in creating a game.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on smart Restaurant management system.
+- 👋 Hi, I’m @resoluterenegade.
 - 📫 Reach me on my email.
 
 <!---
